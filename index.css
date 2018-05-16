@@ -40,6 +40,10 @@ header::after {
     margin: auto;
 }
 
+legend {
+    display: hidden;
+}
+
 .quizStart {
     display: block;
     text-align: center;

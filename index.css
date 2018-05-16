@@ -76,24 +76,24 @@ button:hover, button:focus {
 main div {
     margin: 0 auto;
 }
-label:nth-child(1) {
+label:nth-child(2) {
     background-color:#3C2109;
 }
-label:nth-child(2) {
+label:nth-child(3) {
     background-color:  #552A1B;
 }
-label:nth-child(3) {
+label:nth-child(4) {
     background-color: #66380F
 }
-label:nth-child(4) {
-    background-color: rgb(126, 68, 17);
+label:nth-child(5) {
+    background-color: #7e4411;
 }
 
 label {
     padding: 20px;
     margin-bottom: 0px;
     display: flex;
-    color: rgb(243, 210, 182);
+    color: #f3d2b6;
     cursor: pointer;
     transition: all 0.3s ease-out;
     line-height: 22px;
@@ -130,7 +130,7 @@ h2 {
     text-align: left;
     font-size: 25px;
     margin-bottom: 40px;
-    color: #363946;
+    color: #2C2F3A;
     text-transform: capitalize;
     transition: 0.3s ease;
 }
@@ -138,8 +138,8 @@ h2 {
 form button {
     padding: 20px;
     border: none;
-    background-color: #c9701d;
-    color: #363946;
+    background-color: #E08229;
+    color: #2C2F3A;
     font-size: 18px;
     font-weight: 600;
     text-transform: capitalize;
@@ -162,8 +162,8 @@ form button {
     display: block;
     margin: 0;
     text-align: center;
-    background: #363946;
-    color: #ebb652;
+    background: #2C2F3A;
+    color: #E08229;
     padding-top: 40px
 }
 
